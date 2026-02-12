@@ -1,5 +1,7 @@
 # DoraDora - Socket-based Doraemon Character Guessing Game
+## 👥 Team Project
 
+This project was developed as a collaborative team effort.
 **DoraDora** is a client-server game developed on a network using Python's socket programming. The user responds to a set of Yes/No questions regarding a mystery Doraemon character, and the server attempts to guess the character from the answers. After being guessed correctly, the server will send an image of the character to the client.
 
 
